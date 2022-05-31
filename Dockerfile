@@ -12,6 +12,7 @@ CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 EXPOSE 80
  
  
+#Docker ls
 # FROM  centos:latest
 # MAINTAINER vikashashoke@gmail.com
 # RUN yum install -y httpd \
